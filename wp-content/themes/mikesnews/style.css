@@ -17,10 +17,14 @@ body {
      height: 150px;
 }
 
-.older {
+#loading {
+     height: 20px;
+}
+
+#older {
      text-align: left;
 }
 
-.newer {
+#newer {
      text-align: right;
 }
